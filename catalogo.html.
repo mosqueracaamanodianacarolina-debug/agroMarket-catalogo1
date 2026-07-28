@@ -1,1 +1,22 @@
-https://github.com/mosqueracaamanodianacarolina-debug/agroMarket-catalogo1.git
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Catálogo de Productos Agrícolas</title>
+</head>
+<body>
+
+<h1>Catálogo de Productos Agrícolas</h1>
+
+<h2>Productos disponibles</h2>
+
+<ul>
+    <li>Banano - $3.50 por racimo</li>
+    <li>Maíz - $18.00 por quintal</li>
+    <li>Tomate - $1.20 por kg</li>
+    <li>Papa - $0.90 por kg</li>
+    <li>Mango - $2.50 por kg</li>
+</ul>
+
+</body>
+</html>
